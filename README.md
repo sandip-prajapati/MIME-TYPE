@@ -1,3 +1,1 @@
-# test
-test
-test
+# mime type
